@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # In[1]:
 
 
@@ -81,10 +78,4 @@ data2 = pickle.load(pickle_in)
 pprint.pprint(data2)
 
 pickle_in.close()
-
-
-# In[ ]:
-
-
-
 
